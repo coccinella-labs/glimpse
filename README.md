@@ -40,8 +40,8 @@ Glimpse creates simple marks from icons, shapes, text, and images.
 <br>
 
 <!-- nightly:start -->
-nightly: [2026-06-01](https://github.com/bniladridas/glimpse/releases/tag/nightly) · `1c4f241` · gemini-3.5-flash
-note: this nightly build extends the symbol.
+nightly: [2026-06-02](https://github.com/bniladridas/glimpse/releases/tag/nightly) · `d7af533` · gemini-3.5-flash
+note: nightly app builds were refreshed.
 <!-- nightly:end -->
 
 <br>
