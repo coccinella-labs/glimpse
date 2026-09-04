@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/glimpse/main/.github/assets/thumbnail.png" alt="glimpse" width="100%">
+</p>
+
 <p align="center"><strong>Glimpse</strong></p>
 
 [![web](https://img.shields.io/badge/web-app-64748b?style=flat-square)](https://glimpsehosting.vercel.app)
