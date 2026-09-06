@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/glimpse/main/.github/assets/thumbnail.png" alt="glimpse" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/glimpse/main/.github/assets/thumbnail.png" alt="glimpse" width="100%">
 </p>
 
 <p align="center"><strong>Glimpse</strong></p>
